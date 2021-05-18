@@ -45,7 +45,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-Simple web scraper using Node.js to get all a tags on the page.
+Simple web scraper using Node.js to get all **a** tags on the page.
 
 
 ### Built With
@@ -93,7 +93,7 @@ To get a local copy up and running follow these simple steps.
    ```sh
    http://localhost:8080
    ```
-2. Enter the webpage you want to scrap all the <a> tags and hit submit.
+2. Enter the webpage you want to scrap all the **a** tags and hit submit.
 
 
 
