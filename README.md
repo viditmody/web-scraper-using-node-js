@@ -38,7 +38,6 @@
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
@@ -52,8 +51,8 @@ Simple web scraper using Node.js to get all a tags on the page.
 ### Built With
 
 * [Node.js 14.17.0 LTS](https://nodejs.org/en/)
-* [HTML]
-* [CSS]
+* HTML
+* CSS
 * [Bootstrap](https://getbootstrap.com/docs/4.6/)
 
 
@@ -94,7 +93,7 @@ To get a local copy up and running follow these simple steps.
    ```sh
    http://localhost:8080
    ```
-2. Enter the webpage you want to scrap all the '''sh <a> ''' tags and hit submit.
+2. Enter the webpage you want to scrap all the <a> tags and hit submit.
 
 
 
@@ -120,10 +119,8 @@ Any contributions you make are **greatly appreciated**.
 <!-- CONTACT -->
 ## Contact
 
-Project Link: [https://github.com/viditmody](https://github.com/viditmody)
+Link: [https://github.com/viditmody](https://github.com/viditmody)
 
 
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/vidit-m-a85237ab/
