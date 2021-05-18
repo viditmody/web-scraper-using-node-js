@@ -11,8 +11,6 @@
   <p align="center">
     Web Scraper Using Node.js
     <br />
-    <a href="https://github.com/viditmody/web-scraper-using-node-js">View Demo</a>
-    ·
     <a href="https://github.com/viditmody/web-scraper-using-node-js/issues">Report Bug</a>
     ·
     <a href="https://github.com/viditmody/web-scraper-using-node-js/issues">Request Feature</a>
